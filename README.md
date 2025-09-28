@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I’m Kaoutar Mouh, a Computer Engineering student at EHTP (Casablanca, Morocco) and a future software engineer passionate about AI, software development, and scalable systems.
 
-<!--
-**MOUHKAOUTAR/MOUHKAOUTAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Currently seeking a PFE internship (Feb–June 2026) in Software Development | AI | DevOps
 
-Here are some ideas to get you started:
+🤖 Hands-on experience in AI agent development (RAG, LLM integration, NLP) and full-stack web/mobile apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skilled in Python, Java, JavaScript, PHP, Django, Angular, React Native, Laravel
+
+⚙️ Experienced with Docker, Git, Linux, REST APIs, Agile (Scrum)
+
+🌍 Trilingual: Arabic (native), French (fluent), English (B2)
+
+🔗 Connect with Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/kaoutar-mouh-8b7a98299/)
+
+📂 [GitHub](https://github.com/MOUHKAOUTAR)
+
+📧 kaoutarmouh7@gmail.com
