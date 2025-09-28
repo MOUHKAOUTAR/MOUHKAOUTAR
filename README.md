@@ -1,4 +1,5 @@
-##Hi, I’m Kaoutar Mouh!
+# Hi, I’m Kaoutar Mouh!
+
 Computer Engineering student at EHTP (Casablanca, Morocco) and a future software engineer passionate about AI, software development, and scalable systems.<br><br>🎯 Currently seeking a PFE internship (Feb–June 2026) in Software Development | AI | DevOps<br><br>🤖 Hands-on experience in AI agent development (RAG, LLM integration, NLP) and full-stack web/mobile apps<br><br>🛠 Skilled in Python, Java, JavaScript, PHP, Django, Angular, React Native, Laravel<br><br>⚙️ Experienced with Docker, Git, Linux, REST APIs, Agile (Scrum)<br><br>🌍 Trilingual: Arabic (native), French (fluent), English (B2)
 
 
